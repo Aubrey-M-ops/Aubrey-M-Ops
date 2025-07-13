@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Frontend / Fullstack Developer
+### GOOD MORNING ☕️
 
-🌱 Growing ...
+- 💻 Frontend / Fullstack Developer
+- 🌱 Growing ...
 
 
 > 🌃 Do not go gentle into that good night.
