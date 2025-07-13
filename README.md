@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋
+
 
 <!--
 **Aubrey-M-ops/Aubrey-M-Ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Frontend / Fullstack Developer
+
+🌱 Growing ...
+
+
+> 🌃 Do not go gentle into that good night.
