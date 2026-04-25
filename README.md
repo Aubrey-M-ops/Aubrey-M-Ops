@@ -21,6 +21,11 @@
 
 **[ClawCareer](https://github.com/Aubrey-M-ops/ClawCareer)** — Automated job search bot. Monitors LinkedIn by custom filters and delivers daily matches to Telegram.
 
+### 🐣 0xMorningM
+
+**[DYOR Bot 🪙](https://github.com/Aubrey-M-ops/coin-research-bot)** — A bot that generates structured crypto research reports on demand — powered by Claude AI with multi-source on-chain and market data.
+
+
 ### ☁️ Cloud Computing
 
 **[Middleware Platform for Cloud-Edge Computing](https://github.com/Aubrey-M-ops/Middleware_Platform_for_Cloud_Edge_Computing)** — Unified middleware for heterogeneous cloud and edge deployments, with automatic resource discovery and ML-driven predictive scheduling.
